@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/JarXr/Fajar/main/Hi.gif" width="29px"></h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/JarXr/JarXr/main/Hi.gif" width="29px"></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Fajar;I'm+just+ordinary+human)](https://git.io/typing-svg)
 
