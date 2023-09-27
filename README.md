@@ -17,7 +17,7 @@
 <div align="center" >
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=917498063193518130)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ug5cxz6xyxy2x6tlov2eox4ecq&cover_image=true&theme=novatorem&show_offline=false&background_color=262626&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31ug5cxz6xyxy2x6tlov2eox4ecq&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ug5cxz6xyxy2x6tlov2eox4ecq&cover_image=true&theme=novatorem&show_offline=false&background_color=292929&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31ug5cxz6xyxy2x6tlov2eox4ecq&redirect=true)
 
 </div>
 
