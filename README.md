@@ -4,6 +4,12 @@
 
 ###
 
+<div align="center">
+<img src="https://count.getloli.com/get/@fajarcly?theme=rule34" alt="fajarcly?theme=rule34" />
+</div>
+
+###
+
 <h1 align="center">Hi 👋, I'm Fajar</h1>
 
 ###
